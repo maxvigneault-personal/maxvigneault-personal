@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @maxvigneault-personal
+- 👋 Hi, I’m Max
 - 👀 I’m interested in industrial applications of modern technologies such as vision, robotics and any others ways to improve reliability and sustanabilty of my projects.
 - 🌱 I’m currently learning OpenCV and Kuka's KRL Language (industrial robots).
 - 💞️ I’m looking to collaborate on vision 
